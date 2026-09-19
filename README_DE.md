@@ -107,7 +107,7 @@ Die Nutzung von CatCore UpdateGuard erfolgt auf eigene Gefahr. Es wird keine Haf
 
 ## Release
 
-Aktuell wurde noch kein fertiger Release veröffentlicht. Der aktuelle Source ist direkt als [`CCUpdateGuard.sh`](CCUpdateGuard.sh) im `main`-Branch verfügbar.
+Lade den aktuellen [`v1.0.0-Release`](https://github.com/ctrl-mietze/CatCore-UpdateGuard/releases/tag/v1.0.0) mit dem direkt ausführbaren Asset `CCUpdateGuard.sh` und den automatisch erzeugten GitHub-Source-Archiven herunter. Der neueste Source bleibt zusätzlich direkt im `main`-Branch verfügbar.
 
 ---
 

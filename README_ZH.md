@@ -107,7 +107,7 @@ bash ~/CCUpdateGuard.sh
 
 ## Release
 
-目前尚未发布打包版本。当前源代码可在 `main` 分支直接以 [`CCUpdateGuard.sh`](CCUpdateGuard.sh) 获取。
+下载当前的 [`v1.0.0 Release`](https://github.com/ctrl-mietze/CatCore-UpdateGuard/releases/tag/v1.0.0)，其中包含可直接运行的 `CCUpdateGuard.sh` 资源以及 GitHub 自动生成的源代码归档。最新源代码也仍可直接在 `main` 分支中获取。
 
 ---
 

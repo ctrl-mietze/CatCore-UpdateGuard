@@ -107,7 +107,7 @@ Use CatCore UpdateGuard at your own risk. No liability is accepted for failed up
 
 ## Release
 
-No packaged release has been published yet. The current source is available directly as [`CCUpdateGuard.sh`](CCUpdateGuard.sh) on the `main` branch.
+Download the current [`v1.0.0 release`](https://github.com/ctrl-mietze/CatCore-UpdateGuard/releases/tag/v1.0.0), including the ready-to-run `CCUpdateGuard.sh` asset and GitHub's automatic source archives. The latest source also remains available directly on the `main` branch.
 
 ---
 
